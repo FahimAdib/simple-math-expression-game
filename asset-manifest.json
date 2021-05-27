@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-math-expression-game/static/css/main.b50cc4b4.chunk.css",
+    "main.css": "/simple-math-expression-game/static/css/main.56d8ae8b.chunk.css",
     "main.js": "/simple-math-expression-game/static/js/main.32a5a7b6.chunk.js",
     "main.js.map": "/simple-math-expression-game/static/js/main.32a5a7b6.chunk.js.map",
     "runtime-main.js": "/simple-math-expression-game/static/js/runtime-main.662de658.js",
@@ -8,13 +8,13 @@
     "static/js/2.b0b617a3.chunk.js": "/simple-math-expression-game/static/js/2.b0b617a3.chunk.js",
     "static/js/2.b0b617a3.chunk.js.map": "/simple-math-expression-game/static/js/2.b0b617a3.chunk.js.map",
     "index.html": "/simple-math-expression-game/index.html",
-    "static/css/main.b50cc4b4.chunk.css.map": "/simple-math-expression-game/static/css/main.b50cc4b4.chunk.css.map",
+    "static/css/main.56d8ae8b.chunk.css.map": "/simple-math-expression-game/static/css/main.56d8ae8b.chunk.css.map",
     "static/js/2.b0b617a3.chunk.js.LICENSE.txt": "/simple-math-expression-game/static/js/2.b0b617a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.662de658.js",
     "static/js/2.b0b617a3.chunk.js",
-    "static/css/main.b50cc4b4.chunk.css",
+    "static/css/main.56d8ae8b.chunk.css",
     "static/js/main.32a5a7b6.chunk.js"
   ]
 }
